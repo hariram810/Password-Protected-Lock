@@ -2,6 +2,44 @@
 
 ![Screenshot (303)](https://user-images.githubusercontent.com/118633170/202871041-026c4113-d0c0-47a1-ac98-bf93c9af6039.png)
 
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
+
+
+
+Please use the following link to register an account in JLCPCB
+
+jlcpcb.com/RNA
+
+
+
+Pcb Manufacturing
+
+
+2 layers
+
+4 layers
+
+6 layers
+
+
+
+PCBA Services
+
+JLCPCB have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
+
+Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you peace-of-mind that you won't run into any last minute part shortages.
+
+
+
+3d printing
+
+
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
+
+JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
+
+
+
 This is a lock based on arduino and keypad with solenoid lock for extra protection
 
 The circuit of this project is very simple which contains Arduino, keypad module, buzzer, Servo Motor, and LCD. Arduino controls the complete processes like taking a password from the keypad module, comparing passwords, driving buzzer, rotating servo motor, and sending status to the LCD display. The keypad is used for taking the password. The buzzer is used for indications. Servo motor is used for opening the gate while rotating and LCD is used for displaying status or messages on it.
