@@ -8,7 +8,7 @@ If you have hard-time 3d printing stuff and other materials which i have provide
 
 Please use the following link to register an account in JLCPCB
 
-jlcpcb.com/RNA
+https://jlcpcb.com/RNA
 
 
 
